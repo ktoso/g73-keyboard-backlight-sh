@@ -28,7 +28,7 @@ manipulate the backlight brighntess on your *Asus G73* series notebook, follow t
 
 License
 ======
-I hereby release this script as **Beerware**. Just for fun I guess ;-) Please find the fill license text bellow:
+I hereby release this script as **Beerware**. Just for fun I guess ;-) The text bellow is the *full text of the license*:
 
       "THE BEER-WARE LICENSE" (Revision 42):
       <konrad.malawski@project13.pl> wrote this file. As long as you retain this notice you
