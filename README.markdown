@@ -24,6 +24,8 @@ manipulate the backlight brighntess on your *Asus G73* series notebook, follow t
 
 4. Now all that's left is to setup the key bindings for the scripts. If you're on KDE4, just go to *System Settings -> Shortcuts and Gestures -> Custom Shortcuts* and *edit -> import...* the file **~/g73/g73_keyboard.khotkeys** which contains ready keybindings for these scripts. Now you may use `Fn + F3` to make the keyboard backlight shine **less**, and the `Fn + F4` combination to make it shine **more**.
 
+   If you're on a GNOME or other windowing system, please follow the usual steps for them to add some own keybinding. What you want to bind is simply calling the ~/g73/g73\_light\_up.sh and ~/g73/g73\_light\_down.sh scrips - easy :-)
+
 License
 ======
 I hereby release this script as **Beerware**. Just for fun I guess ;-) I'll be more than happy if you'd drop a comment here if you used this script by the way: http://www.blog.project13.pl/index.php/fun/1163/g73-keayboard-backlight-scripts/ :-) 
