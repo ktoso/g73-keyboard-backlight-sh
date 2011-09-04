@@ -9,4 +9,4 @@ then
     echo "new light level: $current"
 fi;
 
-sudo /home/ktoso/g73/g73_light_.sh "$current"
+sudo ./light_.sh "$current"
