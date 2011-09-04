@@ -41,4 +41,4 @@ I hereby release this script as **Beerware**. Just for fun I guess ;-) The text 
 
 Comments
 ========
-I'll be more than happy if you'd drop a comment here if you used this script by the way: http://www.blog.project13.pl/index.php/fun/1163/g73-keayboard-backlight-scripts/ :-) 
+I'll be more than happy if you'd drop a comment here if you used this script by the way: http://www.blog.project13.pl/index.php/fun/1163/g73-keyboard-backlight-scripts-source-github/ :-) 
