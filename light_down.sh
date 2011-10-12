@@ -1,6 +1,8 @@
 #!/bin/sh
 
-current=`cat /sys/class/leds/asus::kbd_backlight/brightness`
+g73_home=$(dirname "$0")
+
+current=$(cat /sys/class/leds/asus::kbd_backlight/brightness)
 echo "current light level: $current"
 
 if [ "$current" -gt 0 ]
@@ -9,4 +11,4 @@ then
     echo "new light level: $current"
 fi;
 
-sudo ./light_.sh "$current"
+sudo $g73_home/light_.sh "$current"
